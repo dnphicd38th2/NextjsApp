@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 function hello(props) {
   return (
     <div>
-      <h2>hello</h2>
+      <h2>hello new branch</h2>
     </div>
   );
 }
